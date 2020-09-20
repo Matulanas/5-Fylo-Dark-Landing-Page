@@ -84,6 +84,8 @@ header {
 
 /* Service section */
 .service {
+    display: grid;
+    grid-template-rows: auto auto;
     background-color: #181F2A;
     width: 100%;
 }
