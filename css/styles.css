@@ -17,7 +17,7 @@ header {
     padding: 50px;
     margin: 0 5%;
     font-family: 'Raleway', sans-serif;
-}
+} 
     .header > .logo {
         float: left;
         width: 150px;
@@ -26,7 +26,7 @@ header {
         display: inline-block;
         align-self: center;
     }
-        .navigation a {
+        .navigation > a {
             color: #81D9D4;
             text-decoration: none;
             margin: 0 30px;
